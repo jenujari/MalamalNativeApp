@@ -1,0 +1,12 @@
+{
+  "name": "mlmw",
+  "displayName": "mlmw",
+  "expo": {
+    "name": "mlmw",
+    "slug": "mlmw",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
